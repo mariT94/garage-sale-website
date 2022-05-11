@@ -1,2 +1,2 @@
-# garage-sale-website
+# yard-sale-website
 project2
